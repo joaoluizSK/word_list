@@ -1,6 +1,6 @@
-# word_list
+# Word List
 
-List of English words.
+List of English words. You can save your favorite words!
 
 ## Getting Started
 
